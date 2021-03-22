@@ -22,7 +22,9 @@ Readme
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Links
-- the best ever
+- https://drive.google.com/file/d/1Badq8NFJnyWWBTPWc__xRQktdQu2CZuz/view?usp=sharing
+
+-https://github.com/NathanForgille/write-a-readme
 
 ## Author
 - Me Myself
